@@ -2,7 +2,7 @@
 public class ñero {
 
 	public static void main(String[] args) {
-		System.out.println("mehs");
+		System.out.println("s");
 
 	}
 
